@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>pad</title>
+  <link href="src/style/timeline.css" rel="stylesheet" type="text/css">
+  <link href="src/style/pad.css" rel="stylesheet" type="text/css">
+  <script src="src/js/timeline.js"></script>
+  <script src="src/js/pad.js"></script>
+</head>
+<body>
+<label style="margin: 20px auto; display: block; max-width: 750px;">
+  <input type="checkbox" id="blackSwitcher"/>
+  Black mode
+</label>
+<div class="padWrapper">
+  <div class="pad">
+    <div class="homeButton"></div>
+    <div class="content">
+      <div class="switcher">
+        <button class="processButton" data-process="INT3D-11">Prophase</button>
+        <button class="processButton" data-process="INT3D-12">Metaphase</button>
+        <button class="processButton" data-process="INT3D-13">Anaphase</button>
+        <button class="processButton" data-process="INT3D-14">Telophase</button>
+        <button class="processButton" data-process="INT3D-15">Cytokinesis</button>
+        <button class="fullCycle">Full Cycle</button>
+      </div>
+      <div class="videoContainer">
+        <div id="timeline"></div>
+      </div>
+    </div>
+    <div class="bang">
+      <div class="speaker"></div>
+      <div class="cam"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
