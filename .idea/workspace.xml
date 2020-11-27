@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="459d853c-6aa7-44a4-9031-4e6e15b1ba85" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/pad.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/pad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/pad.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/pad.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iYxBZN347lEJiHzrnWWXZ9nuGv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="459d853c-6aa7-44a4-9031-4e6e15b1ba85" name="Default Changelist" comment="" />
+      <created>1602098191740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602098191740</updated>
+      <workItem from="1602098192785" duration="624000" />
+      <workItem from="1602146419886" duration="321000" />
+      <workItem from="1606308847115" duration="308000" />
+      <workItem from="1606485226759" duration="116000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1602098244373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602098244373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="114" key="CommitChangelistDialog2" timestamp="1606485308012">
+      <screen x="0" y="25" width="1920" height="1014" />
+    </state>
+    <state x="528" y="111" key="CommitChangelistDialog2/0.23.1920.1006@0.23.1920.1006" timestamp="1602098243786" />
+    <state x="528" y="114" key="CommitChangelistDialog2/0.25.1920.1014@0.25.1920.1014" timestamp="1606485308012" />
+    <state x="560" y="266" key="Vcs.Push.Dialog.v2" timestamp="1602098250624">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="560" y="266" key="Vcs.Push.Dialog.v2/0.23.1920.1006@0.23.1920.1006" timestamp="1602098250624" />
   </component>
 </project>

@@ -62,16 +62,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     fullCycle.classList.add("active");
   });
-
-
-  //////////////////////////////////////////////
-  const black = document.getElementById("blackSwitcher");
-  const pad = document.querySelector(".pad");
-  black.addEventListener("change", () => {
-    if (black.checked)
-      pad.classList.add("black");
-    else
-      pad.classList.remove("black");
-  });
 });
 
